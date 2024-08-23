@@ -1,9 +1,8 @@
 <div class="content">
 	<h1>🌭.land</h1>
 	<ul>
-		<a href="/climb">
-			<li>Climb Talks RSVP Form</li>
-		</a>
+		<li><a href="/climb">Climb Talks RSVP Form</a></li>
+		<li><a href="/discord">Error 479 Discord</a></li>
 	</ul>
 </div>
 
