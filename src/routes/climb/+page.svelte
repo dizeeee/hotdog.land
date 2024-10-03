@@ -52,8 +52,8 @@
 <h3>Do I need to sign a waiver?</h3>
 <p>Yes, you can do it in person, or online <a href="https://bouldersandbrews.com/">here</a>.</p>
 
-<img src={sep1} width="40%" />
-<img src={sep2} width="40%" />
+<img src={sep1} width="40%" alt="Steven Judd speaking at the September 2024 event" />
+<img src={sep2} width="40%" alt="Reetik Patel speaking at the September 2024 event" />
 
 <style>
 	.button {
