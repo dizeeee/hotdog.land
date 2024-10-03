@@ -30,6 +30,12 @@
 		<li>Free indoor climbing, climbing shoes included</li>
 	</ul>
 
+	<h2>Who is Speaking?</h2>
+	<ul>
+		<li>Evan Black</li>
+		<li>Noah Zimmerman</li>
+	</ul>
+
 	<h2>FAQ:</h2>
 	<h3>Will there be food?</h3>
 	<p>Yes, there will be free pizza and drinks.</p>
