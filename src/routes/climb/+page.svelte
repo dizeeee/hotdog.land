@@ -1,10 +1,13 @@
 <script>
 	import sep1 from '$lib/climb/september241.jpg';
 	import sep2 from '$lib/climb/september242.jpg';
+
+	import oct1 from '$lib/climb/october241.jpg';
+	import oct2 from '$lib/climb/october242.jpg';
 </script>
 
 <h1>Climb Talks</h1>
-<a href="https://forms.gle/zBb5Dpasb5DVXWsS8">
+<a href="/climb/signup">
 	<h2 class="button">SIGN UP HERE</h2>
 </a>
 
@@ -15,7 +18,7 @@
 </p>
 
 <h2>When:</h2>
-<p>Tuesday, October 15 @ 7:00 PM</p>
+<p>Tuesday, November 12 @ 7:00 PM</p>
 
 <h2>What is Climb Talks?</h2>
 <p>
@@ -35,13 +38,16 @@
 
 <h2>Who is Speaking?</h2>
 <ul>
-	<li>Evan Black</li>
-	<li>Noah Zimmerman</li>
+	<li>Ben Burdess - Designing PCBs as a Hobbyist Who Knows Nothing About Electrical Engineering</li>
+	<li>Dr. Alex Nelson - We Have Data at Home: Decentralization of Mobile Computing</li>
 </ul>
 
 <h2>FAQ:</h2>
 <h3>Will there be food?</h3>
 <p>Yes, there will be free pizza and drinks.</p>
+
+<h3>Do I have to pay for parking?</h3>
+<p>No, parking is free. Just park in the lot for the building and we'll give you a parking pass.</p>
 
 <h3>Do I need to climb?</h3>
 <p>Nope! There is no pressure to climb.</p>
@@ -52,8 +58,24 @@
 <h3>Do I need to sign a waiver?</h3>
 <p>Yes, you can do it in person, or online <a href="https://bouldersandbrews.com/">here</a>.</p>
 
-<img src={sep1} width="40%" alt="Steven Judd speaking at the September 2024 event" />
-<img src={sep2} width="40%" alt="Reetik Patel speaking at the September 2024 event" />
+<h2>Previous events:</h2>
+<img src={oct1} width="45%" alt="Noah Zimmerman speaking at the October 2024 event" />
+<img src={oct2} width="45%" alt="Evan Black speaking at the October 2024 event" />
+
+<div>
+	<em><strong>Noah Zimmerman</strong> - Hobby Filmmaking</em>
+	<br />
+	<em><strong>Evan Black</strong> - HTMX</em>
+</div>
+
+<img src={sep1} width="45%" alt="Steven Judd speaking at the September 2024 event" />
+<img src={sep2} width="45%" alt="Reetik Patel speaking at the September 2024 event" />
+
+<div>
+	<em><strong>Steven Judd</strong> - What Operations Wants From Developers</em>
+	<br />
+	<em><strong>Reetik Patel</strong> - Smart Home UX</em>
+</div>
 
 <style>
 	.button {
