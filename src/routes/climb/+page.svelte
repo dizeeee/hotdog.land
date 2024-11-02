@@ -38,8 +38,12 @@
 
 <h2>Who is Speaking?</h2>
 <ul>
-	<li>Ben Burdess - Designing PCBs as a Hobbyist Who Knows Nothing About Electrical Engineering</li>
-	<li>Dr. Alex Nelson - We Have Data at Home: Decentralization of Mobile Computing</li>
+	<li>
+		<strong>Ben Burdess</strong> - Designing PCBs as a Hobbyist Who Knows Nothing About Electrical Engineering
+	</li>
+	<li>
+		<strong>Dr. Alex Nelson</strong> - We Have Data at Home: Decentralization of Mobile Computing
+	</li>
 </ul>
 
 <h2>FAQ:</h2>
