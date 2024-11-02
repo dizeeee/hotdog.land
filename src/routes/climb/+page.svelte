@@ -6,7 +6,7 @@
 	import oct2 from '$lib/climb/october242.jpg';
 </script>
 
-<h1>Climb Talks</h1>
+<h1>Climb Talks 🧗</h1>
 <a href="/climb/signup">
 	<h2 class="button">SIGN UP HERE</h2>
 </a>
